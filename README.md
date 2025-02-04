@@ -7,7 +7,7 @@ Shopping Cart: Add, remove, and adjust quantities of products before checkout.
 Responsive Design: Optimized for different screen sizes using Bootstrap.
 Dynamic Interaction: User-friendly UI with alerts and modals powered by SweetAlert2 and Bootstrap.
 Checkout Process: Simulated steps for entering shipping and payment details with validation.
-Technologies
+# Technologies
 Frontend:
 HTML5
 CSS3
