@@ -1,0 +1,163 @@
+.custom-body {
+    background-image: linear-gradient(120deg, #f2f4f8 0%, #f9fbfb 100%) !important;
+    font-family: 'Poppins', sans-serif;
+}
+
+.products-header {
+    background: url('../assets/products-banner.jpg') no-repeat center center;
+    background-size: cover;
+    height: 80vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.btn-light {
+    color: black !important;
+}
+
+.header-title {
+    font-size: 4rem;
+    font-weight: 700;
+}
+
+@media (min-width: 992px) {
+    .products-header {
+        align-items: flex-start;
+        text-align: left;
+    }
+
+    .header-title {
+        font-size: 4rem;
+    }
+}
+
+.card-img-top {
+    width: 100%;
+    height: 200px;
+    object-fit: contain;
+    border-radius: 5px;
+}
+
+.card {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    border: none;
+    box-shadow: none;
+}
+
+.card-text {
+    text-align: justify;
+}
+
+
+.card .btn-details {
+    background-color: #f3f5f7;
+    border: none;
+    color: black;
+
+}
+
+.card .btn-details:hover {
+    background-color: #9ea6af;
+    border: none;
+    color: white;
+}
+
+.card .bi-currency-dollar,
+.card .bi-tags {
+    font-size: 1.5rem;
+    margin-right: 5px;
+    color: #000;
+}
+
+.card .d-flex {
+    font-size: 1rem;
+}
+
+.card .bi {
+    font-size: 1.2rem;
+    margin-right: 5px;
+}
+
+.carousel-item img {
+    width: 100%;
+    height: 300px;
+    object-fit: contain;
+    border-radius: 5px;
+}
+
+.list-unlisted li i {
+    font-size: 2rem;
+    margin-right: 2rem;
+}
+
+.btn-cancel {
+    background-color: none !important;
+    color: black !important;
+    border: none !important;
+    padding: 0.5rem 1rem !important;
+}
+
+.btn-cancel:hover {
+    background-color: #F3F5F7 !important;
+    color: black !important;
+    border: none !important;
+
+}
+
+.btn-decrement,
+.btn-increment {
+    background-color: #F3F5F7 !important;
+    color: gray !important;
+    border: 1px gray !important;
+    width: 40px !important;
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+    border-radius: 5px !important;
+}
+
+.btn-decrement:hover,
+.btn-increment:hover {
+    background-color: #e9ecef !important;
+    color: black !important;
+}
+
+.btn-add-to-cart {
+    background-color: #1d1bad !important;
+    color: white !important;
+    border: none !important;
+    padding: 0.5rem 1.5rem !important;
+    font-size: 1rem !important;
+    border-radius: 5px !important;
+}
+
+.btn-add-to-cart:hover {
+    background-color: #1d1bad !important;
+    color: white !important;
+}
+
+#product-quantity {
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 60px;
+}
+
+#product-description {
+    text-align: justify;
+}
+
+#category-title {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+#search-bar {
+    margin-right: 0.5rem;
+}

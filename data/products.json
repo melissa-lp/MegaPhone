@@ -1,0 +1,422 @@
+[
+    {
+        "id": 1,
+        "name": "Samsung Galaxy S23 Ultra",
+        "price": 1199.99,
+        "category": "Samsung",
+        "memory": "256GB / 12GB RAM",
+        "camera": "200MP + 12MP + 10MP + 10MP (trasera), 12MP (frontal)",
+        "screen": "6.8'' QHD+ Dynamic AMOLED 2X",
+        "battery": "5000 mAh, carga rápida de 45W",
+        "os": "Android 13",
+        "connectivity": "5G, Wi-Fi 6E, Bluetooth 5.3, NFC",
+        "image_main": "../assets/images/samsung-s23-ultra-main.jpg",
+        "images_modal": [
+            "../assets/images/samsung-s23-ultra-1.jpg",
+            "../assets/images/samsung-s23-ultra-2.jpg",
+            "../assets/images/samsung-s23-ultra-3.jpg",
+            "../assets/images/samsung-s23-ultra-main.jpg"
+        ],
+        "description": "El Samsung Galaxy S23 Ultra redefine la fotografía móvil con su cámara de 200MP y un rendimiento de última generación."
+    },
+    {
+        "id": 2,
+        "name": "iPhone 15 Pro Max",
+        "price": 1299.99,
+        "category": "Apple",
+        "memory": "256GB / 8GB RAM",
+        "camera": "48MP (trasera), 12MP (frontal)",
+        "screen": "6.7'' Super Retina XDR OLED",
+        "battery": "4323 mAh, carga rápida de 20W",
+        "os": "iOS 17",
+        "connectivity": "5G, Wi-Fi 6E, Bluetooth 5.3, UWB",
+        "image_main": "../assets/images/iphone-15-pro-max-main.jpg",
+        "images_modal": [
+            "../assets/images/iphone-15-pro-max-1.jpg",
+            "../assets/images/iphone-15-pro-max-2.jpg",
+            "../assets/images/iphone-15-pro-max-3.jpg",
+            "../assets/images/iphone-15-pro-max-main.jpg"
+        ],
+        "description": "El iPhone 15 Pro Max combina diseño de titanio, cámara avanzada y el chip A17 Pro para un rendimiento increíble."
+    },
+    {
+        "id": 3,
+        "name": "Google Pixel 8 Pro",
+        "price": 999.99,
+        "category": "Google",
+        "memory": "128GB / 12GB RAM",
+        "camera": "50MP + 48MP + 48MP (trasera), 10.5MP (frontal)",
+        "screen": "6.7'' LTPO OLED",
+        "battery": "5050 mAh, carga rápida de 30W",
+        "os": "Android 14",
+        "connectivity": "5G, Wi-Fi 7, Bluetooth 5.3, NFC",
+        "image_main": "../assets/images/google-pixel-8-pro-main.jpg",
+        "images_modal": [
+            "../assets/images/google-pixel-8-pro-1.jpg",
+            "../assets/images/google-pixel-8-pro-2.jpg",
+            "../assets/images/google-pixel-8-pro-3.jpg",
+            "../assets/images/google-pixel-8-pro-main.jpg"
+        ],
+        "description": "El Google Pixel 8 Pro ofrece una experiencia de cámara excepcional y características de IA avanzadas."
+    },
+    {
+        "id": 4,
+        "name": "Xiaomi 13 Pro",
+        "price": 899.99,
+        "category": "Xiaomi",
+        "memory": "256GB / 12GB RAM",
+        "camera": "50.3MP + 50MP + 50MP (trasera), 32MP (frontal)",
+        "screen": "6.73'' AMOLED LTPO",
+        "battery": "4820 mAh, carga rápida de 120W",
+        "os": "Android 13, MIUI 14",
+        "connectivity": "5G, Wi-Fi 6E, Bluetooth 5.3, NFC",
+        "image_main": "../assets/images/xiaomi-13-pro-main.jpg",
+        "images_modal": [
+            "../assets/images/xiaomi-13-pro-1.jpg",
+            "../assets/images/xiaomi-13-pro-2.jpg",
+            "../assets/images/xiaomi-13-pro-3.jpg",
+            "../assets/images/xiaomi-13-pro-main.jpg"
+        ],
+        "description": "El Xiaomi 13 Pro destaca por su diseño premium, cámara Leica y carga ultrarrápida."
+    },
+    {
+        "id": 5,
+        "name": "OnePlus 11",
+        "price": 699.99,
+        "category": "OnePlus",
+        "memory": "128GB / 8GB RAM",
+        "camera": "50MP + 48MP + 32MP (trasera), 16MP (frontal)",
+        "screen": "6.7'' AMOLED LTPO3",
+        "battery": "5000 mAh, carga rápida de 100W",
+        "os": "Android 13, OxygenOS",
+        "connectivity": "5G, Wi-Fi 6, Bluetooth 5.2, NFC",
+        "image_main": "../assets/images/oneplus-11-main.jpg",
+        "images_modal": [
+            "../assets/images/oneplus-11-1.jpg",
+            "../assets/images/oneplus-11-2.jpg",
+            "../assets/images/oneplus-11-3.jpg",
+            "../assets/images/oneplus-11-main.jpg"
+        ],
+        "description": "El OnePlus 11 combina potencia y diseño con su procesador Snapdragon 8 Gen 2 y pantalla AMOLED."
+    },
+    {
+        "id": 6,
+        "name": "Sony Xperia 1 V",
+        "price": 1199.99,
+        "category": "Sony",
+        "memory": "256GB / 12GB RAM",
+        "camera": "48MP + 12MP + 12MP (trasera), 12MP (frontal)",
+        "screen": "6.5'' 4K HDR OLED",
+        "battery": "5000 mAh, carga rápida de 30W",
+        "os": "Android 13",
+        "connectivity": "5G, Wi-Fi 6E, Bluetooth 5.3, NFC",
+        "image_main": "../assets/images/sony-xperia-1-v-main.jpg",
+        "images_modal": [
+            "../assets/images/sony-xperia-1-v-1.jpg",
+            "../assets/images/sony-xperia-1-v-2.jpg",
+            "../assets/images/sony-xperia-1-v-3.jpg",
+            "../assets/images/sony-xperia-1-v-main.jpg"
+        ],
+        "description": "El Sony Xperia 1 V es ideal para creadores con su pantalla 4K y cámara optimizada para video."
+    },
+    {
+        "id": 7,
+        "name": "Motorola Edge 40 Pro",
+        "price": 799.99,
+        "category": "Motorola",
+        "memory": "256GB / 12GB RAM",
+        "camera": "50MP + 50MP + 12MP (trasera), 60MP (frontal)",
+        "screen": "6.67'' OLED 144Hz",
+        "battery": "4600 mAh, carga rápida de 125W",
+        "os": "Android 13",
+        "connectivity": "5G, Wi-Fi 6E, Bluetooth 5.3, NFC",
+        "image_main": "../assets/images/motorola-edge-40-pro-main.jpg",
+        "images_modal": [
+            "../assets/images/motorola-edge-40-pro-1.jpg",
+            "../assets/images/motorola-edge-40-pro-2.jpg",
+            "../assets/images/motorola-edge-40-pro-3.jpg",
+            "../assets/images/motorola-edge-40-pro-main.jpg"
+        ],
+        "description": "El Motorola Edge 40 Pro combina estilo, rendimiento y una impresionante cámara frontal de 60MP."
+    },
+    {
+        "id": 8,
+        "name": "Huawei P60 Pro",
+        "price": 999.99,
+        "category": "Huawei",
+        "memory": "512GB / 12GB RAM",
+        "camera": "48MP + 13MP + 48MP (trasera), 13MP (frontal)",
+        "screen": "6.67'' OLED 120Hz",
+        "battery": "4815 mAh, carga rápida de 88W",
+        "os": "HarmonyOS 3.1",
+        "connectivity": "5G, Wi-Fi 6E, Bluetooth 5.3, NFC",
+        "image_main": "../assets/images/huawei-p60-pro-main.jpg",
+        "images_modal": [
+            "../assets/images/huawei-p60-pro-1.jpg",
+            "../assets/images/huawei-p60-pro-2.jpg",
+            "../assets/images/huawei-p60-pro-3.jpg",
+            "../assets/images/huawei-p60-pro-main.jpg"
+        ],
+        "description": "El Huawei P60 Pro es perfecto para fotografía y diseño avanzado con carga ultrarrápida."
+    },
+    {
+        "id": 9,
+        "name": "Asus ROG Phone 7 Ultimate",
+        "price": 1499.99,
+        "category": "Asus",
+        "memory": "512GB / 16GB RAM",
+        "camera": "50MP + 13MP + 5MP (trasera), 32MP (frontal)",
+        "screen": "6.78'' AMOLED 165Hz",
+        "battery": "6000 mAh, carga rápida de 65W",
+        "os": "Android 13, ROG UI",
+        "connectivity": "5G, Wi-Fi 7, Bluetooth 5.3, NFC",
+        "image_main": "../assets/images/asus-rog-phone-7-main.jpg",
+        "images_modal": [
+            "../assets/images/asus-rog-phone-7-1.jpg",
+            "../assets/images/asus-rog-phone-7-2.jpg",
+            "../assets/images/asus-rog-phone-7-3.jpg",
+            "../assets/images/asus-rog-phone-7-main.jpg"
+        ],
+        "description": "El Asus ROG Phone 7 Ultimate está diseñado para gamers con una pantalla fluida y una batería inmensa."
+    },
+    {
+        "id": 10,
+        "name": "Realme GT3",
+        "price": 649.99,
+        "category": "Realme",
+        "memory": "256GB / 16GB RAM",
+        "camera": "50MP + 8MP + 2MP (trasera), 16MP (frontal)",
+        "screen": "6.74'' AMOLED 144Hz",
+        "battery": "4600 mAh, carga rápida de 240W",
+        "os": "Android 13, Realme UI 4.0",
+        "connectivity": "5G, Wi-Fi 6, Bluetooth 5.2, NFC",
+        "image_main": "../assets/images/realme-gt3-main.jpg",
+        "images_modal": [
+            "../assets/images/realme-gt3-1.jpg",
+            "../assets/images/realme-gt3-2.jpg",
+            "../assets/images/realme-gt3-3.jpg",
+            "../assets/images/realme-gt3-main.jpg"
+        ],
+        "description": "El Realme GT3 destaca con la carga más rápida del mercado y un diseño moderno."
+    },
+    {
+        "id": 11,
+        "name": "Vivo X90 Pro",
+        "price": 1099.99,
+        "category": "Vivo",
+        "memory": "256GB / 12GB RAM",
+        "camera": "50.3MP + 50MP + 12MP (trasera), 32MP (frontal)",
+        "screen": "6.78'' AMOLED LTPO4 120Hz",
+        "battery": "4870 mAh, carga rápida de 120W",
+        "os": "Android 13, Funtouch OS",
+        "connectivity": "5G, Wi-Fi 6E, Bluetooth 5.3, NFC",
+        "image_main": "../assets/images/vivo-x90-pro-main.jpg",
+        "images_modal": [
+            "../assets/images/vivo-x90-pro-1.jpg",
+            "../assets/images/vivo-x90-pro-2.jpg",
+            "../assets/images/vivo-x90-pro-3.jpg",
+            "../assets/images/vivo-x90-pro-main.jpg"
+        ],
+        "description": "El Vivo X90 Pro ofrece una experiencia fotográfica excepcional con su óptica Zeiss."
+    },
+    {
+        "id": 12,
+        "name": "Oppo Find X6 Pro",
+        "price": 1249.99,
+        "category": "Oppo",
+        "memory": "512GB / 16GB RAM",
+        "camera": "50MP + 50MP + 50MP (trasera), 32MP (frontal)",
+        "screen": "6.82'' AMOLED LTPO3 120Hz",
+        "battery": "5000 mAh, carga rápida de 100W",
+        "os": "Android 13, ColorOS",
+        "connectivity": "5G, Wi-Fi 6E, Bluetooth 5.3, NFC",
+        "image_main": "../assets/images/oppo-find-x6-pro-main.jpg",
+        "images_modal": [
+            "../assets/images/oppo-find-x6-pro-1.jpg",
+            "../assets/images/oppo-find-x6-pro-2.jpg",
+            "../assets/images/oppo-find-x6-pro-3.jpg",
+            "../assets/images/oppo-find-x6-pro-main.jpg"
+        ],
+        "description": "El Oppo Find X6 Pro combina un diseño lujoso con tecnología fotográfica avanzada."
+    },
+    {
+        "id": 13,
+        "name": "Lenovo Legion Y90",
+        "price": 1299.99,
+        "category": "Lenovo",
+        "memory": "256GB / 18GB RAM",
+        "camera": "64MP + 13MP (trasera), 16MP (frontal)",
+        "screen": "6.92'' AMOLED 144Hz",
+        "battery": "5600 mAh, carga rápida de 68W",
+        "os": "Android 12, ZUI",
+        "connectivity": "5G, Wi-Fi 6E, Bluetooth 5.2, NFC",
+        "image_main": "../assets/images/lenovo-legion-y90-main.jpg",
+        "images_modal": [
+            "../assets/images/lenovo-legion-y90-1.jpg",
+            "../assets/images/lenovo-legion-y90-2.jpg",
+            "../assets/images/lenovo-legion-y90-3.jpg",
+            "../assets/images/lenovo-legion-y90-main.jpg"
+        ],
+        "description": "El Lenovo Legion Y90 es un monstruo para juegos con una pantalla inmersiva y un diseño único."
+    },
+    {
+        "id": 14,
+        "name": "Nokia X30 5G",
+        "price": 549.99,
+        "category": "Nokia",
+        "memory": "128GB / 8GB RAM",
+        "camera": "50MP + 13MP (trasera), 16MP (frontal)",
+        "screen": "6.43'' AMOLED 90Hz",
+        "battery": "4200 mAh, carga rápida de 33W",
+        "os": "Android 12",
+        "connectivity": "5G, Wi-Fi 6, Bluetooth 5.1, NFC",
+        "image_main": "../assets/images/nokia-x30-5g-main.jpg",
+        "images_modal": [
+            "../assets/images/nokia-x30-5g-1.jpg",
+            "../assets/images/nokia-x30-5g-2.jpg",
+            "../assets/images/nokia-x30-5g-3.jpg",
+            "../assets/images/nokia-x30-5g-main.jpg"
+        ],
+        "description": "El Nokia X30 5G es una elección sostenible con un diseño ecológico y características modernas."
+    },
+    {
+        "id": 15,
+        "name": "ZTE Axon 40 Ultra",
+        "price": 899.99,
+        "category": "ZTE",
+        "memory": "256GB / 12GB RAM",
+        "camera": "64MP + 64MP + 64MP (trasera), 16MP (frontal)",
+        "screen": "6.8'' AMOLED 120Hz",
+        "battery": "5000 mAh, carga rápida de 80W",
+        "os": "Android 12, MyOS",
+        "connectivity": "5G, Wi-Fi 6E, Bluetooth 5.2, NFC",
+        "image_main": "../assets/images/zte-axon-40-ultra-main.jpg",
+        "images_modal": [
+            "../assets/images/zte-axon-40-ultra-1.jpg",
+            "../assets/images/zte-axon-40-ultra-2.jpg",
+            "../assets/images/zte-axon-40-ultra-3.jpg",
+            "../assets/images/zte-axon-40-ultra-main.jpg"
+        ],
+        "description": "El ZTE Axon 40 Ultra destaca por su cámara triple de 64MP y un diseño elegante."
+    },
+    {
+        "id": 16,
+        "name": "iPhone 14 Pro Max",
+        "price": 1099.99,
+        "category": "Apple",
+        "memory": "256GB / 6GB RAM",
+        "camera": "48MP + 12MP + 12MP (trasera), 12MP (frontal)",
+        "screen": "6.7'' Super Retina XDR OLED",
+        "battery": "4323 mAh, carga rápida de 20W",
+        "os": "iOS 16",
+        "connectivity": "5G, Wi-Fi 6, Bluetooth 5.0, UWB",
+        "image_main": "../assets/images/iphone-14-pro-max-main.jpg",
+        "images_modal": [
+            "../assets/images/iphone-14-pro-max-1.jpg",
+            "../assets/images/iphone-14-pro-max-2.jpg",
+            "../assets/images/iphone-14-pro-max-3.jpg",
+            "../assets/images/iphone-14-pro-max-main.jpg"
+        ],
+        "description": "El iPhone 14 Pro Max redefine la experiencia móvil con su diseño único y capacidades fotográficas avanzadas."
+    },
+    {
+        "id": 17,
+        "name": "iPhone SE 2023",
+        "price": 429.99,
+        "category": "Apple",
+        "memory": "128GB / 4GB RAM",
+        "camera": "12MP (trasera), 7MP (frontal)",
+        "screen": "4.7'' Retina IPS LCD",
+        "battery": "2018 mAh, carga rápida de 18W",
+        "os": "iOS 16",
+        "connectivity": "5G, Wi-Fi 6, Bluetooth 5.0, NFC",
+        "image_main": "../assets/images/iphone-se-2023-main.jpg",
+        "images_modal": [
+            "../assets/images/iphone-se-2023-1.jpg",
+            "../assets/images/iphone-se-2023-2.jpg",
+            "../assets/images/iphone-se-2023-3.jpg",
+            "../assets/images/iphone-se-2023-main.jpg"
+        ],
+        "description": "El iPhone SE 2023 combina un diseño compacto con la potencia del chip A15 Bionic."
+    },
+    {
+        "id": 18,
+        "name": "Samsung Galaxy Z Fold 5",
+        "price": 1799.99,
+        "category": "Samsung",
+        "memory": "512GB / 12GB RAM",
+        "camera": "50MP + 12MP + 10MP (trasera), 10MP + 4MP (frontal)",
+        "screen": "7.6'' Foldable Dynamic AMOLED 2X",
+        "battery": "4400 mAh, carga rápida de 25W",
+        "os": "Android 13",
+        "connectivity": "5G, Wi-Fi 6E, Bluetooth 5.2, NFC",
+        "image_main": "../assets/images/samsung-z-fold-5-main.jpg",
+        "images_modal": [
+            "../assets/images/samsung-z-fold-5-1.jpg",
+            "../assets/images/samsung-z-fold-5-2.jpg",
+            "../assets/images/samsung-z-fold-5-3.jpg",
+            "../assets/images/samsung-z-fold-5-main.jpg"
+        ],
+        "description": "El Samsung Galaxy Z Fold 5 redefine la multitarea con su pantalla plegable y diseño innovador."
+    },
+    {
+        "id": 19,
+        "name": "Samsung Galaxy A54 5G",
+        "price": 499.99,
+        "category": "Samsung",
+        "memory": "128GB / 8GB RAM",
+        "camera": "50MP + 12MP + 5MP (trasera), 32MP (frontal)",
+        "screen": "6.4'' Super AMOLED",
+        "battery": "5000 mAh, carga rápida de 25W",
+        "os": "Android 13, One UI 5.1",
+        "connectivity": "5G, Wi-Fi 6, Bluetooth 5.2, NFC",
+        "image_main": "../assets/images/samsung-a54-main.jpg",
+        "images_modal": [
+            "../assets/images/samsung-a54-1.jpg",
+            "../assets/images/samsung-a54-2.jpg",
+            "../assets/images/samsung-a54-3.jpg",
+            "../assets/images/samsung-a54-main.jpg"
+        ],
+        "description": "El Samsung Galaxy A54 5G ofrece un equilibrio perfecto entre rendimiento y precio."
+    },
+    {
+        "id": 20,
+        "name": "Samsung Galaxy S22 Ultra",
+        "price": 1149.99,
+        "category": "Samsung",
+        "memory": "256GB / 12GB RAM",
+        "camera": "108MP + 10MP + 10MP + 12MP (trasera), 40MP (frontal)",
+        "screen": "6.8'' QHD+ Dynamic AMOLED 2X",
+        "battery": "5000 mAh, carga rápida de 45W",
+        "os": "Android 12, One UI 4.1",
+        "connectivity": "5G, Wi-Fi 6E, Bluetooth 5.2, NFC",
+        "image_main": "../assets/images/samsung-s22-ultra-main.jpg",
+        "images_modal": [
+            "../assets/images/samsung-s22-ultra-1.jpg",
+            "../assets/images/samsung-s22-ultra-2.jpg",
+            "../assets/images/samsung-s22-ultra-3.jpg",
+            "../assets/images/samsung-s22-ultra-main.jpg"
+        ],
+        "description": "El Samsung Galaxy S22 Ultra ofrece fotografía avanzada y un diseño elegante."
+    },
+    {
+        "id": 21,
+        "name": "Sony Xperia 5 V",
+        "price": 999.99,
+        "category": "Sony",
+        "memory": "128GB / 8GB RAM",
+        "camera": "48MP + 12MP (trasera), 12MP (frontal)",
+        "screen": "6.1'' OLED HDR",
+        "battery": "5000 mAh, carga rápida de 30W",
+        "os": "Android 13",
+        "connectivity": "5G, Wi-Fi 6E, Bluetooth 5.3, NFC",
+        "image_main": "../assets/images/sony-xperia-5-v-main.jpg",
+        "images_modal": [
+            "../assets/images/sony-xperia-5-v-1.jpg",
+            "../assets/images/sony-xperia-5-v-2.jpg",
+            "../assets/images/sony-xperia-5-v-3.jpg",
+            "../assets/images/sony-xperia-5-v-main.jpg"
+        ],
+        "description": "El Sony Xperia 5 V combina portabilidad y rendimiento en un diseño compacto."
+    }
+]
